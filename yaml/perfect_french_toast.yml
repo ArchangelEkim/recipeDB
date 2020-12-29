@@ -1,0 +1,100 @@
+recipe_name: Perfect French Toast
+source_url: www.marthastewart.com/316629/perfect-french-toast
+source_author: Martha Stewart
+oven_temp:
+    - amount: 200
+      unit: F
+oven_fan: Off
+oven_time: 10 minutes
+yields:
+    - servings: 6
+ingredients:
+    - egg, large:
+        amounts:
+            - amount: 6
+              unit: each
+    - milk:
+        amounts:
+            - amount: 1.5
+              unit: cup
+    - orange, medium:
+        amounts:
+            - amount: 1
+              unit: each
+        notes:
+            - About 1/4 cup of juice
+    - vanilla, extract:
+        amounts:
+            - amount: 2
+              unit: tbsp
+        notes:
+            - Pure vanilla extract
+    - cognac:
+        amounts:
+            - amount: 2
+              unit: tbsp
+        notes:
+            - Optional ingredient
+    - sugar:
+        amounts:
+            - amount: 1
+              unit: tbsp
+    - lemon, zest:
+        amounts:
+            - amount: 1
+              unit: each
+        notes:
+            - About 1 tbsp of zest
+    - cinnamon, ground:
+        amounts:
+            - amount: 0.5
+              unit: tsp
+    - nutmeg, grated:
+        amounts:
+            - amount: 1
+              unit: pinch
+    - salt:
+        amounts:
+            - amount: 1
+              unit: pinch
+    - bread:
+        amounts:
+            - amount: 6
+              unit: slice
+        notes:
+            - 1-inch thick slice
+            - Preferably a day old
+    - butter, unsalted:
+        amounts:
+            - amount: 4
+              unit: tbsp
+    - oil, vegetable:
+        amounts:
+            - amount: 4
+              unit: tbsp
+    - maple syrup:
+        notes:
+            - To serve with (optional)
+steps:
+    - step:
+        Whisk together eggs, milk, juice, vanilla, cognac, sugar, zest, cinnamon, nutmeg and salt in a bowl; set aside.
+    - step:
+        Place bread in a shallow baking dish large enough to hold bread slices in a single layer.
+    - step:
+        Pour egg mixture over bread; soak 10 minutes.
+    - step:
+        Turn slices over; soak 10 minutes more or until soaked through.
+    - step:
+        Preheat oven to 200F.
+    - step:
+        Place a wire rack on a baking sheet and set aside.
+    - step:
+        Heat 2 tablespoons butter and 2 tablespoons vegetable oil in a skillet over medium heat.
+    - step:
+        Fry half the bread slices until golden brown, 2 to 3 minutes per side.
+    - step:
+        Transfer to wire rack; place in oven while cooking remaining bread.
+    - step:
+        Wipe skillet and repeat with remaining butter, oil and bread. Keep in oven until ready to serve.
+    - step:
+        Serve warm with maple syrup, if desired.
